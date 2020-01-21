@@ -26,7 +26,7 @@ const k_muppet = {
 };
 
 
-
+const { }
 
 // Strings
 
