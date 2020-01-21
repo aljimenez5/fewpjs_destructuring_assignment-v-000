@@ -26,7 +26,7 @@ const k_muppet = {
 };
 
 
-const { }
+const { , , , , , song_2, , song_4, k_job, k_partner }
 
 // Strings
 
